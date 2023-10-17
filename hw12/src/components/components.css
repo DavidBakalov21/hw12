@@ -1,0 +1,12 @@
+.days{
+    border: 2px solid black;
+}
+.marginButton{
+  
+    margin-top: 3%;
+  }
+  .FullWidth{
+  
+   display: block;
+   width: 100%;
+  }
